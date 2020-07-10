@@ -1,6 +1,6 @@
 # ⚡ Hello, world! Obrigado por visitar meu GitHub
 
-**Parisotto/Parisotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Meu nome é Edson L Parisotto
 
 Here are some ideas to get you started:
 
