@@ -2,7 +2,7 @@
 
 *Meu nome é Edson L Parisotto*
 
-Here are some ideas to get you started:
+## Sou formado em Análise e Desenvolvimento de Sistemas, Licenciatura em Matemática e graduando em Pedagogia.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
