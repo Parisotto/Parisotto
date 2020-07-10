@@ -7,7 +7,7 @@
 - Atualmente sou professor de TI nas ETECs do Centro Paula Souza
 - Eventualmente leciono Matemática em escolas públicas de SP
 - Já trabalhei com ilustração e design em agencias de publicidade e editoras
-- Sou fullstack javascript e webdisegner
+- Fullstack javascript e web designer
 - PHP (Laravel)
 - Java Web (Spring Boot)
 - Mobile (Android/Kotlin, React Native)
