@@ -1,6 +1,6 @@
 # ⚡ Hello, world! Obrigado por visitar meu GitHub
 
-*Meu nome é Edson L Parisotto
+*Meu nome é Edson L Parisotto*
 
 Here are some ideas to get you started:
 
