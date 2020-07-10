@@ -1,4 +1,4 @@
-# ⚡ Hello, world! Obrigado por visitar meu GitHub
+# ⚡ Hello, world!
 
 ## Meu nome é Edson L Parisotto
 
