@@ -1,4 +1,4 @@
-### Hi there 👋
+![](image.png)
 
 **Parisotto/Parisotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
