@@ -12,8 +12,8 @@
 - Java Web (Spring Boot)
 - Mobile (Android/Kotlin, React Native)
 
-* Meu site: [Parisotto.Net](https://www.parisotto.net)
-* Portifolio: [GitHub](https:parisotto.github.io)
+* Meu site: [Parisotto.Net](https://www.parisotto.net) -> https://www.parisotto.net 
+* Portifolio: [GitHub](https:parisotto.github.io) -> https://parisotto.github.io 
 * Redes Sociais: 
   [Instagram](https://instagram.com/edsonparisotto),
   [Twitter](https://twitter.com/edsonparisotto),
