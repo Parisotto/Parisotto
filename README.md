@@ -21,4 +21,4 @@
   [YouTube](https://www.youtube.com/parisotto),
   [DeviantArt](https://parisotto.deviantart.com/).
 
-![](image.png)
+<img src='image.png' align='left' width='300'>
