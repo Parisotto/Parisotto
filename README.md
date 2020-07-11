@@ -4,7 +4,7 @@
 
 ## Meu nome é Edson L Parisotto
 
-### Sou formado em Análise e Desenvolvimento de Sistemas, Licenciatura em Matemática e graduando em Pedagogia.
+### Sou formado em Análise e Desenvolvimento de Sistemas, Licenciatura em Matemática e graduando em Pedagogia. Aqui é o meu jardim de códigos. Obrigado por me visitar.
 
 - Atualmente sou professor de TI nas ETECs do Centro Paula Souza
 - Eventualmente leciono Matemática em escolas públicas de SP
