@@ -21,4 +21,4 @@
   [YouTube](https://www.youtube.com/parisotto),
   [DeviantArt](https://parisotto.deviantart.com/).
 
-<img src='image.png' align='left' width='300'>
+<img src='https://parisotto.net/img/logo-pnet.png' align='left' width='300'>
