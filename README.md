@@ -1,10 +1,11 @@
-# ⚡ Hello, world!
+# ⚡ Hello, world! Welcome!
 
-<img src='https://parisotto.net/img/logo-pnet.png' align='left' width='100'>
+<img src='https://parisotto.net/img/logo-pnet.png' align='left' width='200'>
 
-## Meu nome é Edson L Parisotto
+## Meu nome é Edson Luiz Parisotto
+*Safra Dezembro de 1962 - São Paulo/SP*
 
-### Sou formado em Análise e Desenvolvimento de Sistemas, Licenciatura em Matemática e graduando em Pedagogia. Aqui é o meu jardim de códigos. Obrigado por me visitar.
+### Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC, Licenciatura em Matemática pela UNIFRAN e graduando em Pedagogia pela UNIVESP. Aqui é o meu jardim de códigos. Obrigado por me visitar.
 
 - Atualmente sou professor de TI nas ETECs do Centro Paula Souza
 - Eventualmente leciono Matemática em escolas públicas de SP
