@@ -1,6 +1,6 @@
 # ⚡ [Hello, world! Welcome to Parisotto.Net](https://parisotto.github.io)
 
-<img src='https://parisotto.net/img/logo-pnet.png' align='left' width='200'>
+<img src='https://parisotto.net/img/logo-pnet.png' align='left' width='190'>
 
 ## Meu nome é Edson Luiz Parisotto
 *Safra Dezembro de 1962 - São Paulo/SP*
