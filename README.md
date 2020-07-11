@@ -1,8 +1,8 @@
 # ⚡ Hello, world!
 
-## Meu nome é Edson L Parisotto
-
 <img src='https://parisotto.net/img/logo-pnet.png' align='left' width='100'>
+
+## Meu nome é Edson L Parisotto
 
 ### Sou formado em Análise e Desenvolvimento de Sistemas, Licenciatura em Matemática e graduando em Pedagogia.
 
