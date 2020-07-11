@@ -3,7 +3,7 @@
 <img src='https://parisotto.net/img/logo-pnet.png' align='left' width='180'>
 
 ## Meu nome é Edson Luiz Parisotto
-*Safra Dezembro de 1962 - São Paulo/SP*
+*Desde dezembro de 1962 - São Paulo/SP*
 
 ### Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC, Licenciatura em Matemática pela UNIFRAN e graduando em Pedagogia pela UNIVESP. Aqui é o meu jardim de códigos. Obrigado por me visitar.
 
