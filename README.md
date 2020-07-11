@@ -2,6 +2,8 @@
 
 ## Meu nome é Edson L Parisotto
 
+<img src='https://parisotto.net/img/logo-pnet.png' align='left' width='100'>
+
 ### Sou formado em Análise e Desenvolvimento de Sistemas, Licenciatura em Matemática e graduando em Pedagogia.
 
 - Atualmente sou professor de TI nas ETECs do Centro Paula Souza
@@ -20,5 +22,3 @@
   [Facebook](https://facebook.com/edsonluizparisotto),
   [YouTube](https://www.youtube.com/parisotto),
   [DeviantArt](https://parisotto.deviantart.com/).
-
-<img src='https://parisotto.net/img/logo-pnet.png' align='left' width='300'>
