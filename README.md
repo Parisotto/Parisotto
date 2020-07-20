@@ -7,7 +7,6 @@
 
 ### Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC, Licenciatura em Matemática pela UNIFRAN e graduando em Pedagogia pela UNIVESP. Aqui é o meu jardim de códigos. Obrigado por me visitar.
 
-
 # Breve bio:
 
 - Atualmente sou professor de TI nas ETECs do Centro Paula Souza
