@@ -5,7 +5,7 @@
 ## Meu nome é Edson Luiz Parisotto
 *Desde dezembro de 1962 - São Paulo/SP*
 
-### Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC, Licenciatura em Matemática pela UNIFRAN, graduando em Pedagogia pela UNIVESP e Pós-graduando Especialista em Desenvolvimento Web Full Stack pela PUC. Atuo com as tecnologias da Web há mais de 30 anos, tendo passado por projetos das mais diversas naturezas, desde a infraestrutura da Internet até o desenvolvimento de aplicações. Atualmente, sou professor de disciplinas de Tecnologias Web em cursos técnicos, além de ter grande experiência na gerência de projetos de Tecnologia da Informação e Comunicação. Aqui é o meu jardim de códigos. Obrigado por me visitar.
+### Estou pós-granduando Especialista em Desenvolvimento Web Full Stack pela PUC, sou formado em Análise e Desenvolvimento de Sistemas pela FATEC, Licenciatura em Matemática pela UNIFRAN e graduando em Pedagogia pela UNIVESP. Atuo com as tecnologias da Web há mais de 30 anos, tendo passado por projetos das mais diversas naturezas, desde a infraestrutura da Internet até o desenvolvimento de aplicações. Atualmente, sou professor de disciplinas de Tecnologias Web em cursos técnicos, além de ter grande experiência na gerência de projetos de Tecnologia da Informação e Comunicação. Aqui é o meu jardim de códigos. Obrigado por me visitar.
 
 # Breve bio:
 
