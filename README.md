@@ -9,7 +9,7 @@
 
 # Breve bio:
 
-- Desenvolvedro Java na [PRODESAN](https://www.prodesan.com.br)
+- Desenvolvedro Java na [PRODESAN](http://www.prodesan.com.br)
 - Professor de TI nas ETECs do [Centro Paula Souza](https://www.cps.sp.gov.br)
 - Já trabalhei com ilustração e design em agencias de publicidade e editoras
 - Fullstack javascript e web designer
