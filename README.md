@@ -9,7 +9,8 @@
 
 # Breve bio:
 
-- Desenvolvedro Java na [PRODESAN](http://www.prodesan.com.br)
+- Desenvolvedor Java.
+- Professor de TI na Escola Estadual Dr. Ângelo Mendes de Almeida - São Paulo/SP
 - Professor de TI nas ETECs do [Centro Paula Souza](https://www.cps.sp.gov.br)
 - Já trabalhei com ilustração e design em agencias de publicidade e editoras
 - Fullstack javascript e web designer
