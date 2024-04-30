@@ -5,7 +5,7 @@
 ## Desenvolvedor Web Full Stack
 *Desde dezembro de 1962 - São Paulo/SP*
 
-### Pós-granduado Especialista em Desenvolvimento Web Full Stack pela PUC, graduado em Análise e Desenvolvimento de Sistemas pela FATEC. Atuo com as tecnologias da Web há muitos anos, tendo passado por projetos das mais diversas naturezas, desde o primórdios do basiquinho de HTML3 até o desenvolvimento de aplicações Web mais sofisticadas. Atualmente atudo como Desenvolvedor Java na PRODESAN e sou professor de disciplinas de Tecnologias Web em cursos técnicos ETEC/CPS. Aqui é o meu jardim de códigos. Obrigado por me visitar.
+### Pós-granduado Especialista em Desenvolvimento Web Full Stack pela PUC, graduado em Análise e Desenvolvimento de Sistemas pela FATEC e Matemática pela UNIFRAN. Atuo com as tecnologias da Web há muitos anos, tendo passado por projetos das mais diversas naturezas, desde o primórdios do HTML3 até o desenvolvimento de aplicações Web mais sofisticadas. Recentemente atuei como Desenvolvedor Java na PRODESAN, como professor de disciplinas de Tecnologias Web em cursos técnicos ETEC/CPS. Atualmente sou professor de Ciência de Dados na Escola Estual Ângelo Mendes em SP Aqui é o meu jardim de códigos. Obrigado por me visitar.
 
 # Breve bio:
 
