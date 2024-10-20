@@ -2,7 +2,7 @@
 
 <img src='https://parisotto.net/img/logo-pnet.png' align='left' width='180'>
 
-## Desenvolvedor Web Full Stack
+## Desenvolvedor Full Stack Web e Mobil
 *Desde dezembro de 1962 - São Paulo/SP*
 
 ### Pós-graduado Especialista em Desenvolvimento Full Stack pela PUC, graduado em Análise e Desenvolvimento de Sistemas pela FATEC e Matemática pela UNIFRAN. Atuo com as tecnologias da Web há muitos anos, tendo passado por projetos das mais diversas naturezas, desde o primórdios do HTML3 até o desenvolvimento de aplicações Web mais sofisticadas. Recentemente atuei como Desenvolvedor Java na PRODESAN, como professor de disciplinas de Tecnologias Web em cursos técnicos ETEC/CPS. Atualmente sou professor de Ciência de Dados na Escola Estadual Ângelo Mendes em SP e na ETEC Jornalista Roberto Marinho. Aqui é o meu jardim de códigos. Obrigado por me visitar.
