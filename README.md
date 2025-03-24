@@ -11,10 +11,8 @@
 
 - Desenvolvedor Java.
 - Engenheiro de Software no Banco Central do Brasil
-- Já trabalhei com ilustração e design em agencias de publicidade e editoras
 - Fullstack javascript e web designer
 - Python para Ciênca de Dados
-- PHP (Laravel)
 - Java Web (Spring Boot)
 - Mobile (Android/Kotlin, React Native)
 
