@@ -9,7 +9,6 @@
 
 # Breve bio:
 
-- Desenvolvedor Java.
 - Engenheiro de Software no Banco Central do Brasil
 - Fullstack javascript e web designer
 - Python para Ciênca de Dados
